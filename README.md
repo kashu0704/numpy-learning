@@ -87,4 +87,3 @@ If you’re also learning NumPy or found this helpful, consider giving a ⭐ to 
 
 ---
 
-👉 Do you want me to also add a **"Next Steps" section** (like *covering NumPy Random, Linear Algebra, Statistics*) to show future learning plans just like you’ll do with Pandas projects?
